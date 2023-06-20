@@ -1,0 +1,15 @@
+C:\Users\Satria\Documents\Projects\parkingapps\bin\Debug\net6.0\ParkingApps.exe
+C:\Users\Satria\Documents\Projects\parkingapps\bin\Debug\net6.0\ParkingApps.deps.json
+C:\Users\Satria\Documents\Projects\parkingapps\bin\Debug\net6.0\ParkingApps.runtimeconfig.json
+C:\Users\Satria\Documents\Projects\parkingapps\bin\Debug\net6.0\ParkingApps.dll
+C:\Users\Satria\Documents\Projects\parkingapps\bin\Debug\net6.0\ParkingApps.pdb
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ParkingApps.csproj.AssemblyReference.cache
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ParkingApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ParkingApps.AssemblyInfoInputs.cache
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ParkingApps.AssemblyInfo.cs
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ParkingApps.csproj.CoreCompileInputs.cache
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ParkingApps.dll
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\refint\ParkingApps.dll
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ParkingApps.pdb
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ParkingApps.genruntimeconfig.cache
+C:\Users\Satria\Documents\Projects\parkingapps\obj\Debug\net6.0\ref\ParkingApps.dll
